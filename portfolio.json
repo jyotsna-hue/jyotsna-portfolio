@@ -10,7 +10,7 @@
     "tag": "Product & Data",
     "headline": "Product Research @ Neomotion • Data Analyst @ IN22 Labs",
     "resume_url": "/assets/Resume.pdf",
-    "profile_photo": "/assets/Jyotsna-portfolio.jpeg",
+    "profile_photo": "assets/Jyotsna-portfolio.jpeg",
     "location": "Chennai, India (open to Bangalore & Hyderabad)",
     "email": "jyotsnaavenkat@gmail.com"
   },
@@ -44,11 +44,11 @@
   "featured_project": {
   "title": "Spendception: Designing Mindful Spending in UPI",
   "description": "Explores how real-time behavioral nudges during payments can reduce impulsive spending and improve financial awareness.",
-  "cover_image": "/assets/cover2.png",
+  "cover_image": "assets/cover2.png",
   "project_id": "p2"
 },
   "about": {
-    "photo":  "/assets/Jyotsna-portfolio.jpeg",
+    "photo":  "assets/Jyotsna-portfolio.jpeg",
     "paragraphs": [
     "I’m an engineering student graduating this year, and most of my interest in product comes from noticing everyday problems and not being able to stop thinking about them. During placements I found it surprisingly difficult to connect with the right alumni mentors, which pushed me to start working on a matchmaking style platform that connects students with alumni in industry, something like a \"Tinder for mentorship.\"",
 
@@ -109,7 +109,7 @@
   "id": "p2",
   "title": "Mindful Spending Behavior",
   "description": "A fintech product concept exploring how behavioral nudges and contextual insights can improve spending awareness during digital payments.",
-  "cover_image":"/assets/cover2.png",
+  "cover_image":"assets/cover2.png",
   "tags": [
     "Fintech",
     "Behavioral Design",
@@ -147,7 +147,7 @@
     "product": "Uber SmartPool Circles",
     "title": "Making Carpooling Predictable and Trust-Based",
     "summary": "Transforms random ride pooling into a reliable, recurring commute through trusted user circles.",
-    "cover_image": "/assets/uber-smartpool.png",
+    "cover_image": "assets/uber-smartpool.png",
     "detail": {
       "problem_analysis": "Ride pooling fails due to unpredictability, detours, and lack of trust among strangers.",
       "user_analysis": "Students and professionals commuting daily on fixed routes with predictable schedules.",
@@ -162,7 +162,7 @@
     "product": "District GroupUp",
     "title": "Turning Event Discovery into Social Attendance",
     "summary": "Adds a social layer to help users find companions and actually attend events they discover.",
-    "cover_image": "/assets/districtt.png",
+    "cover_image": "assets/districtt.png",
     "detail": {
       "problem_analysis": "Users discover and save events but fail to attend due to lack of companionship.",
       "user_analysis": "Young professionals and individuals with weak local social networks.",
@@ -177,7 +177,7 @@
     "product": "Swiggy Chef@Home",
     "title": "Solving Food Personalization Beyond Delivery",
     "summary": "A new category bridging food delivery and home cooking through personalized, in-home chef experiences.",
-    "cover_image": "/assets/swigy-chef.png",
+    "cover_image": "assets/swigy-chef.png",
     "detail": {
       "problem_analysis": "Food delivery offers convenience but lacks personalization, health transparency, and control over ingredients.",
       "user_analysis": "Urban professionals and families seeking healthy, customized meals without the effort of cooking.",
