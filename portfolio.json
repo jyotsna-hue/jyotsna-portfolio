@@ -9,7 +9,7 @@
     "name_line2": "Raagasri",
     "tag": "Product & Data",
     "headline": "Product Research @ Neomotion • Data Analyst @ IN22 Labs",
-    "resume_url": "/assets/Resume.pdf",
+    "resume_url": "assets/Resume.pdf",
     "profile_photo": "assets/Jyotsna-portfolio.jpeg",
     "location": "Chennai, India (open to Bangalore & Hyderabad)",
     "email": "jyotsnaavenkat@gmail.com"
@@ -34,7 +34,7 @@
   ],
   "pronunciation": {
     "question": "\"How is Jyotsna Raagasri pronounced?\"",
-    "audio_url": "/assets/Jyotsna.mpeg"
+    "audio_url": "assets/Jyotsna.mpeg"
   },
   "currently_working_on": [
     "Building a risk-constrained reinforcement learning model for revenue management in B2C platforms.",
