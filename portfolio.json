@@ -10,7 +10,7 @@
     "tag": "Product & Data",
     "headline": "Product Research @ Neomotion • Data Analyst @ IN22 Labs",
     "resume_url": "assets/Resume.pdf",
-    "profile_photo": "assets/Jyotsna-portfolio.jpeg",
+    "profile_photo": "assets/Jyotsna.jpeg",
     "location": "Chennai, India (open to Bangalore & Hyderabad)",
     "email": "jyotsnaavenkat@gmail.com"
   },
@@ -48,7 +48,7 @@
   "project_id": "p2"
 },
   "about": {
-    "photo":  "assets/Jyotsna-portfolio.jpeg",
+    "photo":  "assets/Jyotsna.jpeg",
     "paragraphs": [
     "I’m an engineering student graduating this year, and most of my interest in product comes from noticing everyday problems and not being able to stop thinking about them. During placements I found it surprisingly difficult to connect with the right alumni mentors, which pushed me to start working on a matchmaking style platform that connects students with alumni in industry, something like a \"Tinder for mentorship.\"",
 
