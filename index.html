@@ -117,6 +117,12 @@
     .featured-title { font-family: var(--serif); font-size: clamp(1.8rem,3vw,2.8rem); font-weight: 400; color: var(--cream); margin-bottom: 16px; line-height: 1.2; }
     .featured-desc { color: rgba(245,240,232,.55); font-size: .95rem; line-height: 1.7; margin-bottom: 32px; }
     .featured-image { aspect-ratio: 16/10; background: rgba(255,255,255,.05); border: 1px solid rgba(255,255,255,.1); display: flex; align-items: center; justify-content: center; cursor: pointer; transition: border-color var(--t); overflow: hidden; }
+    .featured-image iframe {
+  height: 100%;
+  aspect-ratio: 9 / 16;
+  max-width: 100%;
+  border: none;
+}
     .featured-image:hover { border-color: var(--accent-light); }
     .featured-image img {
   width: 100%;
@@ -429,9 +435,17 @@ function buildHome(d) {
           View Case Study ${ICONS.arrow}
         </button>
       </div>
-      <div class="featured-image" onclick="navigate('projects');showProject('${fp.project_id||''}')">
-        ${fpImg}
-      </div>
+      <div class="featured-image">
+  <iframe 
+    width="100%" 
+    height="100%" 
+    src="https://www.youtube.com/embed/XXXXXXXX"
+    title="Spendception Demo"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+</div>
     </div>
   </div>
 
